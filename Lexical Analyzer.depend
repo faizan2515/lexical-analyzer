@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1569568236 source:c:\users\dell\desktop\3rd semester\lexical analyzer\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<windows.h>
+	"stack.h"
+	"symbol.h"
+
+1562223942 source:c:\users\dell\desktop\3rd semester\lexical analyzer\node.cpp
+	"Node.h"
+	<iostream>
+
+1562222998 c:\users\dell\desktop\3rd semester\lexical analyzer\node.h
+
+1562223951 c:\users\dell\desktop\3rd semester\lexical analyzer\stack.h
+	"node.h"
+
+1562225786 source:c:\users\dell\desktop\3rd semester\lexical analyzer\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1569142968 source:c:\users\dell\desktop\3rd semester\lexical analyzer\symbol.cpp
+	"symbol.h"
+	<iostream>
+	<string.h>
+	<fstream>
+
+1568445893 c:\users\dell\desktop\3rd semester\lexical analyzer\symbol.h
+	<iostream>
+	<fstream>
+
